@@ -1,1 +1,2 @@
 # WikidataGamePlus
+# dignityc.github.io
